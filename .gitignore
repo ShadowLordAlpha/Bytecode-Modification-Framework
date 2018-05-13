@@ -20,3 +20,5 @@ push.sh
 *.bat
 *.txt
 **/Main.java
+/.gradle/
+/bin/
